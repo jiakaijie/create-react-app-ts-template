@@ -2,6 +2,11 @@
 
 基于 create-react-app typescript 项目模版 （npx create-react-app my-app --template typescript）
 
+## 环境
+
+node: v16.16.0
+react: ^18.2.0
+
 ## Scripts
 
 ### `npm run dev`
